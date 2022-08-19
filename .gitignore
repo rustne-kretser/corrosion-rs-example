@@ -1,0 +1,13 @@
+/rust-lib/target
+/rust-lib/Cargo.lock
+/rust-lib/bindings.h
+/cargo
+/.cargo
+/build
+CMakeFiles
+CMakeCache.txt
+Makefile
+*.a
+*~
+*.cmake
+hello
